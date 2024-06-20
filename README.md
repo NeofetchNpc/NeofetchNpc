@@ -47,7 +47,7 @@
 ------
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neofetch&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeofetchNpc&theme=dracula" />
 </p>
 
 <p align="center">
