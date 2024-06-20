@@ -47,7 +47,7 @@
 ------
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HindiaFtNpc&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neofetch&theme=dracula" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 ------
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HindiaFtNpc&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HindiaFtNpc&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HindiaFtNpc&repo=HindiaFtNpc&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeofetchNpc&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeofetchNpc&repo=NeofetchNpc&theme=tokyonight" />
 </p>
