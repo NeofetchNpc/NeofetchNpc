@@ -60,3 +60,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeofetchNpc&layout=compact&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&theme=tokyonight&show_icons=true" />
 </p>
+
+<p align="center">
+<a href="https://top.gg/bot/1100663869233447023">
+  <img src="https://top.gg/api/widget/1100663869233447023.svg">
+</a>
+</p>
