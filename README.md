@@ -57,7 +57,6 @@
 ------
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeofetchNpc&layout=compact&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&theme=tokyonight&show_icons=true" />
 </p>
 
