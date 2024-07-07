@@ -14,7 +14,7 @@
 - **Name:** YusupKakuu
 - **Loves:** Anime, Games, Music, Girl
 - **Gender:** Milf Hunter
-- **Website:** [https://lnime.zanixon.xyz/](https://lnime.zanixon.xyz/) | [https://sh.zanixon.xyz/](https://sh.zanixon.xyz/)
+- **Website:** [https://api.neastooid.xyz/](https://api.neastooid.xyz/)
 - **Hobbies:** Fixing Problems, Graphic Design, Web Development
 
 <br>
