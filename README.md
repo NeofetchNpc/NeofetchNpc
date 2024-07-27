@@ -64,4 +64,5 @@
 <a href="https://top.gg/bot/1100663869233447023">
   <img src="https://top.gg/api/widget/1100663869233447023.svg">
 </a>
+  <img src="https://osekai.net/profiles/img/banner.svg?id=30037974"/>
 </p>
