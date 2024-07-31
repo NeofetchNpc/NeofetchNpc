@@ -33,6 +33,10 @@
 <br>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&theme=tokyonight&show_icons=true" />
+</p>
+
+<p align="center">
   <a href="https://discord.com/invite/aZwYcWmpzD"><img alt="Discord" src="https://discord.c99.nl/widget/theme-1/722687501298434099.png"/></a>
 </p>
   
@@ -55,14 +59,3 @@
 </p>
 
 ------
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&theme=tokyonight&show_icons=true" />
-</p>
-
-<p align="center">
-<a href="https://top.gg/bot/1100663869233447023">
-  <img src="https://top.gg/api/widget/1100663869233447023.svg">
-</a>
-  <img src="https://osekai.net/profiles/img/banner.svg?id=30037974"/>
-</p>
