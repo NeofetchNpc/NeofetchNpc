@@ -5,11 +5,10 @@
 
 ---------
 
-### 🛑 - About Me - 🛑
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/NeeasTooID/Arshive/main/eef603d97280c8160cc02d50434abe4b.gif" align="right" width="18%">
 </div>
+
 <br>
 
 - **Name:** YusupKakuu
@@ -17,7 +16,7 @@
 - **Gender:** Milf Hunter
 - **Website:** [https://api.neastooid.xyz/](https://api.neastooid.xyz/)
 - **Hobbies:** Fixing Problems, Graphic Design, Web Development
--
+
 <br>
 
 ---------
