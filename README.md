@@ -34,26 +34,14 @@
 <div align="center">
   <table>
     <tr>
-      <td width="350">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=AiverAiva&show_icons=true&theme=dracula&border_radius=8&icon_color=df648c&text_color=718096&hide_title=true&hide_border=true"/>
-        <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=AiverAiva&theme=dracula&hide_border=true" alt="AiverAiva" />
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=AiverAiva&theme=dracula&layout=compact&hide_border=true&icon_color=FFB3B3" />
+      <td width="450">
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&show_icons=true&theme=dracula&border_radius=8&icon_color=df648c&text_color=718096&hide_title=true&hide_border=true"/>
+        <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=NeofetchNpc&theme=dracula&hide_border=true" alt="NeofetchNpc" />
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=NeofetchNpc&theme=dracula&layout=compact&hide_border=true&icon_color=FFB3B3" />
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&theme=tokyonight&show_icons=true" />
-</p>
-
-<p align="center">
-  <a href="https://discord.com/invite/aZwYcWmpzD"><img alt="Discord" src="https://discord.c99.nl/widget/theme-1/722687501298434099.png"/></a>
-</p>
-  
-<p align="center">
-  <a href="https://discord.com/users/825058927720136754"><img alt="Discord" src="https://lanyard.cnrad.dev/api/825058927720136754"/></a>
-</p>
 
 <p align="center">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31clwo7edqwwy7heid576bz6xuue&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
