@@ -57,3 +57,7 @@
 </p>
 
 ------
+
+<p align="center">
+<img src="https://osekai.net/profiles/img/banner.svg?id=30037974" />
+</p>
