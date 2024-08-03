@@ -59,5 +59,5 @@
 ------
 
 <p align="center">
-<img src="https://osekai.net/profiles/img/banner.svg?id=30037974" />
+<img src="https://osu-sig.vercel.app/card?user=YusupKakuu&mode=std&lang=en&blur=6&animation=true&hue=255" />
 </p>
