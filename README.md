@@ -6,17 +6,12 @@
 ---------
 
 <div align="center">
-  <img src="https://count.neastooid.xyz/get/@NeofetchNpc?theme=asoul" align="right" width="45%">
+  <img src="https://count.neastooid.xyz/get/@NeofetchNpc?theme=asoul" width="45%">
 </div>
 
-<br>
-
-- **Name:** YusupKakuu
-- **Loves:** Anime, Games, Music, Girl
-- **Gender:** Milf Hunter
-- **Website:** [https://api.neastooid.xyz/](https://api.neastooid.xyz/) | [https://neastooid.xyz/](https://neastooid.xyz/) | [https://count.neastooid.xyz/](https://count.neastooid.xyz/)
-- **Hobbies:** Fixing Problems, Graphic Design, Web Development
-<br>
+<p align="center">
+[https://api.neastooid.xyz/](https://api.neastooid.xyz/) | [https://neastooid.xyz/](https://neastooid.xyz/) | [https://count.neastooid.xyz/](https://count.neastooid.xyz/)
+</p>
 
 ---------
 
