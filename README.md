@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-[https://api.neastooid.xyz/](https://api.neastooid.xyz/) | [https://neastooid.xyz/](https://neastooid.xyz/) | [https://count.neastooid.xyz/](https://count.neastooid.xyz/)
+https://api.neastooid.xyz | https://neastooid.xyz | https://count.neastooid.xyz
 </p>
 
 ---------
