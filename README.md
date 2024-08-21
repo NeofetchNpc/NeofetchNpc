@@ -6,7 +6,7 @@
 ---------
 
 <div align="center">
-  <img src="https://count.neastooid.xyz/get/@NeofetchNpc?theme=rule34" width="55%">
+  <img src="https://count.neastooid.xyz/get/@NeofetchNpc?theme=asoul" width="55%">
 </div>
 
 <p align="center">
