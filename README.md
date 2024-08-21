@@ -53,12 +53,10 @@ https://api.neastooid.xyz | https://neastooid.xyz | https://count.neastooid.xyz
 
 ------
 
-### Osu!Stabile
 <p align="center">
 <img src="https://osu-sig.vercel.app/card?user=YusupKakuu&mode=std&lang=en&blur=6&animation=true&hue=255" />
 </p>
 
-### Osu!Catch
 <p align="center">
 <img src="https://osu-sig.vercel.app/card?user=yusupkakuu&mode=catch&lang=en&blur=6&animation=true&hue=255" />
 </p>
