@@ -6,7 +6,7 @@
 ---------
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NeeasTooID/Arshive/main/eef603d97280c8160cc02d50434abe4b.gif" align="right" width="18%">
+  <img src="https://count.neastooid.xyz/get/@NeofetchNpc?theme=asoul" align="right" width="45%">
 </div>
 
 <br>
