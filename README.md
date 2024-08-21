@@ -14,7 +14,7 @@
 - **Name:** YusupKakuu
 - **Loves:** Anime, Games, Music, Girl
 - **Gender:** Milf Hunter
-- **Website:** [https://api.neastooid.xyz/](https://api.neastooid.xyz/) | [https://neastooid.xyz/](https://neastooid.xyz/)
+- **Website:** [https://api.neastooid.xyz/](https://api.neastooid.xyz/) | [https://neastooid.xyz/](https://neastooid.xyz/) | [https://count.neastooid.xyz/](https://count.neastooid.xyz/)
 - **Hobbies:** Fixing Problems, Graphic Design, Web Development
 <br>
 
