@@ -6,11 +6,11 @@
 ---------
 
 <div align="center">
-  <img src="https://count.neastooid.xyz/get/@NeofetchNpc?theme=asoul" width="55%">
+  <img src="http://mtl1.micium-hosting.com:1959/get/@NeofetchNpc?theme=asoul" width="55%">
 </div>
 
 <p align="center">
-https://api.neastooid.xyz | https://neastooid.xyz | https://count.neastooid.xyz
+https://api.neastooid.xyz | https://neastooid.xyz | http://mtl1.micium-hosting.com:1959
 </p>
 
 ---------
