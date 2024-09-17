@@ -30,7 +30,6 @@ https://api.neastooid.xyz | https://neastooid.xyz | http://mtl1.micium-hosting.c
     <tr>
       <td width="450">
         <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=NeofetchNpc&show_icons=true&theme=dracula&border_radius=8&icon_color=df648c&text_color=718096&hide_title=true&hide_border=true"/>
-        <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=NeofetchNpc&theme=dracula&hide_border=true" alt="NeofetchNpc" />
         <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=NeofetchNpc&theme=dracula&layout=compact&hide_border=true&icon_color=FFB3B3" />
       </td>
     </tr>
