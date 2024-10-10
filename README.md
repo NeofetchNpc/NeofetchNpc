@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-https://api.neastooid.xyz | https://neastooid.xyz | http://mtl1.micium-hosting.com:1959
+https://api.neastooid.xyz | http://mtl1.micium-hosting.com:1959
 </p>
 
 ---------
