@@ -53,7 +53,7 @@ https://api.neastooid.xyz | http://mtl1.micium-hosting.com:1959
 ------
 
 <p align="center">
-<img src="https://osu-sig.vercel.app/card?user=yusupkakuu&mode=catch&lang=en&blur=6&animation=true&hue=255" />
+<img src="https://osu-sig.vercel.app/card?user=yusupkakuu&mode=catch&lang=en&blur=6&animation=true&hue=299" />
 </p>
 
 ------
