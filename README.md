@@ -5,16 +5,6 @@
 
 ---------
 
-<div align="center">
-  <img src="http://mtl1.micium-hosting.com:1959/get/@NeofetchNpc?theme=asoul" width="55%">
-</div>
-
-<p align="center">
-https://api.neastooid.xyz | http://mtl1.micium-hosting.com:1959
-</p>
-
----------
-
 <p align="center">
     <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,12 +38,6 @@ https://api.neastooid.xyz | http://mtl1.micium-hosting.com:1959
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=600&count=10" />
-</p>
-
-------
-
-<p align="center">
-<img src="https://osu-sig.vercel.app/card?user=yusupkakuu&mode=catch&lang=en&blur=6&animation=true&hue=299" />
 </p>
 
 ------
