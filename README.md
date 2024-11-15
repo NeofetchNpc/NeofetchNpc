@@ -5,6 +5,13 @@
 
 ---------
 
+<details open align="center">
+<summary><b>↓ Total Profile Visitors ↓</b></summary>
+<br>
+<a href="https://www.instagram.com/fatih_frdaus"><img alt="Cute Count" src="https://count.getloli.com/get/@NeofetchNpc?theme=rule34"/></a>
+</details>
+</div>
+
 <p align="center">
     <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
