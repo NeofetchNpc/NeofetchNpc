@@ -47,4 +47,8 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=600&count=10" />
 </p>
 
+<p align="center">
+  <img src="https://osu.neastooid.xyz/card?user=yusupkakuu&mode=std&lang=en&blur=6&animation=true&hue=255" />
+</p>
+
 ------
