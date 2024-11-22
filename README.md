@@ -1,5 +1,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
+<img align="center" src="https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif" style="border-radius: 10px;"/>
+
 # `Account information`
 > My goal in creating this GitHub account is to express my ideas about coding. Usually, this is a hobby. I often code Node.js, JavaScript, HTML, CSS, and so on!  
 
@@ -34,13 +36,13 @@
 </div>
 
 <p align="center">
- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31clwo7edqwwy7heid576bz6xuue&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeofetchNpc&theme=dracula" />
 </p>
 
 ------
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeofetchNpc&theme=dracula" />
+ <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31clwo7edqwwy7heid576bz6xuue&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
 </p>
 
 <p align="center">
