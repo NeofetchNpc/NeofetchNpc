@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://osu.neastooid.xyz/card?user=yusupkakuu&mode=std&lang=en&blur=6&animation=true&hue=255" />
+  <img src="https://osu.neastooid.xyz/card?user=yusupkakuu&mode=catch&lang=en&animation=true" />
 </p>
 
 ------
